@@ -1,0 +1,9 @@
+﻿streamlit>=1.18
+pandas
+numpy
+networkx
+matplotlib
+folium
+streamlit-folium
+requests
+python-dotenv
